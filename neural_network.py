@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # File : neural_network.py
-# Created by Anthony Giraudo the 30/10/2020
+# Created by Anthony Giraudo and Clement Sebastiao the 30/10/2020
 
 """
 """
